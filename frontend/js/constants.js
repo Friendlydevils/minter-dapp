@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-const contractAddress = "0xC43FFf6956460EAB15b1F51450efda46D7d2DCD3"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
-=======
 const contractAddress = "0xC43FFf6956460EAB15b1F51450efda46D7d2DCD3"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
->>>>>>> a1eac6076621ea040ad55a51749d2f63c5a2fa0d
 
 const welcome_h1 = "Welcome to the Friendly Devils Club NFT Project";
 const welcome_h2 = "Connect to MetaMask to Get Started";
